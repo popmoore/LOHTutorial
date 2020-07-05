@@ -1,19 +1,11 @@
 # LOHTutorial
-About iOS app development
 
-* Application Life Cycle
-    - UIKit App Delegate
-    - SwiftUI App
+iOS app development
 
-* Layout
-    - Manual layout
-        * override `layoutSubviews`
-    - Autoresizing (the oldest way)
-        * autoresizingMask (struts and spring)
-    - Autolayout
-        * constraints (based on `layoutSubviews`)
+Documentation
 
-Autoresizing是默认的布局方式，如果我们用代码的方式创建用autolayout的view，我们应该主动将autoresizing 禁止。而最新的基于`.storyboard`和`.xib`的view都用的是`autolayout`。
+* [Technologies](https://developer.apple.com/documentation/technologies)
+* [The Swift Programming Language](https://docs.swift.org/swift-book/)
 
 Books
 
