@@ -2,21 +2,25 @@
 
 iOS app development
 
-Documentation
+## Topics
+
+* [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+
+**Learn more [here](https://github.com/LockedOutofHeaven/LOHTutorial/wiki)**
+
+## Documentation
 
 * [Technologies](https://developer.apple.com/documentation/technologies)
 * [The Swift Programming Language](https://docs.swift.org/swift-book/)
 
-Forums
+## Forums
 
 * [Apple Developer Forums](https://developer.apple.com/forums/)
 
-Books
+## Books
 
 * [Programming iOS 13: Dive Deep into Views, View Controllers, and Frameworks](https://www.amazon.com/Programming-iOS-13-Controllers-Frameworks/dp/1492074616)
 
-Blogs
+## Blogs
 
 * [wwdcbysundell](https://wwdcbysundell.com/)
-
-See more [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wiki)
