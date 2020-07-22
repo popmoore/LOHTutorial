@@ -5,6 +5,7 @@ iOS app development
 ## Topics
 
 * [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+* [Persistent Storage](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Persistent-Storage)
 
 **Learn more [here](https://github.com/LockedOutofHeaven/LOHTutorial/wiki)**
 
