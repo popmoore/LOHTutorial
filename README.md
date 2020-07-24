@@ -24,6 +24,10 @@ iOS app development
 
 * [Programming iOS 13: Dive Deep into Views, View Controllers, and Frameworks](https://www.amazon.com/Programming-iOS-13-Controllers-Frameworks/dp/1492074616)
 
+## Courses/lectures
+
+* [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+
 ## Blogs
 
 * [wwdcbysundell](https://wwdcbysundell.com/)
