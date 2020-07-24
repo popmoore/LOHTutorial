@@ -14,6 +14,7 @@ iOS app development
 * [Technologies](https://developer.apple.com/documentation/technologies)
 * [The Swift Programming Language](https://docs.swift.org/swift-book/)
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
+  - [Uniform Type Identifiers Reference](https://developer.apple.com/library/archive/documentation/Miscellaneous/Reference/UTIRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009257)
 
 ## Forums
 
