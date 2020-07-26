@@ -6,6 +6,8 @@ iOS app development
 
 * [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
 * [Persistent Storage](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Persistent-Storage)
+* Design
+  - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 **Learn more [here](https://github.com/LockedOutofHeaven/LOHTutorial/wiki)**
 
