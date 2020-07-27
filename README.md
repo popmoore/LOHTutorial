@@ -8,6 +8,8 @@ iOS app development
 * [Persistent Storage](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Persistent-Storage)
 * Design
   - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* Package Manager
+  - [Swift Package Manager](https://swift.org/package-manager/)
 
 **Learn more [here](https://github.com/LockedOutofHeaven/LOHTutorial/wiki)**
 
