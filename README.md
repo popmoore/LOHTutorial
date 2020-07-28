@@ -5,8 +5,12 @@ iOS app development
 ## Topics
 
 * View
-  - [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
-  - [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+  - Categories
+    - Drawing
+    - Handling events
+    - [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+  - References
+    - [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
 * [Persistent Storage](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Persistent-Storage)
 * Design
   - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
