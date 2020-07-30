@@ -7,8 +7,12 @@ iOS app development
 * View
   - Categories
     - Drawing
-    - Handling events
+    - Animation
+    - Events handling
     - [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+      - \- [layoutSubviews()]()
+      - \- [setNeedsLayout()]()
+      - \- [layoutIfNeeded()]()
   - References
     - [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
 * [Persistent Storage](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Persistent-Storage)
