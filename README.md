@@ -6,23 +6,45 @@ iOS app development
 
 * View
   - Categories
-    - Drawing
-    - Animation
-    - Events handling
-    - [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
+    * Drawing
+    * Animation
+      - View Animatable Properties
+        * frame
+        * bounds
+        * center
+        * transform
+        * opacity
+        * backgroundColor
+        * NSLayoutConstraint
+      - Layer Animatable Properties
+        * bounds
+        * position
+        * transform
+        * borderColor
+        * borderWidth
+        * cornerRadius
+        * shadowOffset
+        * shadowOpacity
+        * shadowPath
+        * shadowRadius
+        * contents
+        * mask
+        * opacity
+    * Events handling
+    * [Layout](https://github.com/LockedOutofHeaven/LOHTutorial/wiki/Layout)
       - \- [layoutSubviews()]()
       - \- [setNeedsLayout()]()
       - \- [layoutIfNeeded()]()
   - References
-    - [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
+    * [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2)
 * View Controller
   - Types
-    - Content view controller
-    - Container view controller
+    * Content view controller
+    * Container view controller
   - Design Patterns
-    - MVC
+    * MVC
       - UIDocument
-    - Delegation
+    * Delegation
   - Implementation
     * State preserving and restoring
     * Supporting accessibility
