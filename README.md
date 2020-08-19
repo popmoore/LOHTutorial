@@ -23,6 +23,7 @@ iOS app development
     - MVC
       - UIDocument
     - Delegation
+    - [Target-Action](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html#//apple_ref/doc/uid/TP40009071-CH3)
   - Implementation
     * State preserving and restoring
     * Supporting accessibility
