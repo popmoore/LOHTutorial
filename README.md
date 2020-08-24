@@ -46,6 +46,7 @@ iOS app development
       - UIDocument
     - Delegation
     - [Target-Action](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html#//apple_ref/doc/uid/TP40009071-CH3)
+    - [MVVM](https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
   - Implementation
     * State preserving and restoring
     * Supporting accessibility
