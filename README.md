@@ -84,4 +84,4 @@ iOS app development
 
 * [wwdcbysundell](https://wwdcbysundell.com/)
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
-* [ iOS Dev Directory](https://iosdevdirectory.com/)
+* [iOS Dev Directory](https://iosdevdirectory.com/)
