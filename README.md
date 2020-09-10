@@ -82,6 +82,7 @@ iOS app development
 
 ## Blogs
 
+* [donnywals](https://www.donnywals.com/the-blog/)
 * [wwdcbysundell](https://wwdcbysundell.com/)
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
 * [iOS Dev Directory](https://iosdevdirectory.com/)
