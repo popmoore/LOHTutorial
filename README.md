@@ -64,6 +64,7 @@ iOS app development
 ## Documentation
 
 * [News and Updates](https://developer.apple.com/news/)
+* [Xcode Releases](https://xcodereleases.com/)
 * [Technologies](https://developer.apple.com/documentation/technologies)
 * [The Swift Programming Language](https://docs.swift.org/swift-book/)
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
