@@ -29,14 +29,12 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 
 * [Programming iOS 13: Dive Deep into Views, View Controllers, and Frameworks](https://www.amazon.com/Programming-iOS-13-Controllers-Frameworks/dp/1492074616)
 
-## Courses/lectures
+## Courses/lectures/Blogs
 
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [NSScreencast](https://nsscreencast.com/episodes), [Sample code](https://github.com/nsscreencast)
-
-## Blogs
-
 * [donnywals](https://www.donnywals.com/the-blog/)
 * [wwdcbysundell](https://wwdcbysundell.com/)
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
 * [iOS Dev Directory](https://iosdevdirectory.com/)
+* [hackingwithswift](https://www.hackingwithswift.com/)
