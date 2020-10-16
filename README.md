@@ -32,9 +32,10 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 ## Courses/lectures/Blogs
 
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
-* [NSScreencast](https://nsscreencast.com/episodes), [Sample code](https://github.com/nsscreencast)
 * [donnywals](https://www.donnywals.com/the-blog/)
-* [wwdcbysundell](https://wwdcbysundell.com/)
-* [raywenderlich](https://www.raywenderlich.com/ios/articles)
-* [iOS Dev Directory](https://iosdevdirectory.com/)
 * [hackingwithswift](https://www.hackingwithswift.com/)
+* [iOS Dev Directory](https://iosdevdirectory.com/)
+* [NSScreencast](https://nsscreencast.com/episodes), [Sample code](https://github.com/nsscreencast)
+* [raywenderlich](https://www.raywenderlich.com/ios/articles)
+* [SwiftLee](https://www.avanderlee.com/)
+* [wwdcbysundell](https://wwdcbysundell.com/)
