@@ -39,4 +39,5 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
 * [steipete's blog](https://steipete.com/)
 * [SwiftLee](https://www.avanderlee.com/)
+* [swiftwithmajid](https://swiftwithmajid.com/)
 * [wwdcbysundell](https://wwdcbysundell.com/)
