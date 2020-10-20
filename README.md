@@ -37,5 +37,6 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 * [iOS Dev Directory](https://iosdevdirectory.com/)
 * [NSScreencast](https://nsscreencast.com/episodes), [Sample code](https://github.com/nsscreencast)
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
+* [steipete's blog](https://steipete.com/)
 * [SwiftLee](https://www.avanderlee.com/)
 * [wwdcbysundell](https://wwdcbysundell.com/)
