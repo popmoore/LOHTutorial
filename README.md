@@ -5,7 +5,10 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 ## Documentation
 
 * [News and Updates](https://developer.apple.com/news/)
-* [Xcode Releases](https://xcodereleases.com/)
+  - [macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes)
+  - [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+  - [Xcode Release Notes](https://developer.apple.com/documentation/xcode-release-notes)
+    * [Xcode Releases](https://xcodereleases.com/)
 * [Technologies](https://developer.apple.com/documentation/technologies)
 * [The Swift Programming Language](https://docs.swift.org/swift-book/)
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
