@@ -44,7 +44,7 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 
 * [Programming iOS 13: Dive Deep into Views, View Controllers, and Frameworks](https://www.amazon.com/Programming-iOS-13-Controllers-Frameworks/dp/1492074616)
 
-## Courses/lectures/Blogs
+## Courses/lectures/Blogs/Conferences
 
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [donnywals](https://www.donnywals.com/the-blog/)
@@ -56,3 +56,4 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 * [SwiftLee](https://www.avanderlee.com/)
 * [swiftwithmajid](https://swiftwithmajid.com/)
 * [wwdcbysundell](https://wwdcbysundell.com/)
+* [Cocoa Conferences](https://cocoaconferences.com/)
