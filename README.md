@@ -46,6 +46,7 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 
 ## Courses/lectures/Blogs/Conferences
 
+* [Cocoa Conferences](https://cocoaconferences.com/)
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [donnywals](https://www.donnywals.com/the-blog/)
 * [hackingwithswift](https://www.hackingwithswift.com/)
@@ -54,6 +55,6 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 * [raywenderlich](https://www.raywenderlich.com/ios/articles)
 * [steipete's blog](https://steipete.com/)
 * [SwiftLee](https://www.avanderlee.com/)
-* [swiftwithmajid](https://swiftwithmajid.com/)
+* [swiftwithmajid](https://swiftwithmajid.com/
+* [The SwiftUI Lab](https://swiftui-lab.com/))
 * [wwdcbysundell](https://wwdcbysundell.com/)
-* [Cocoa Conferences](https://cocoaconferences.com/)
