@@ -35,6 +35,7 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 ## Design
 
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* [Apple Design Resources - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources.](https://developer.apple.com/design/resources/)
 
 ## Forums
 
