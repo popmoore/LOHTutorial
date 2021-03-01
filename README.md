@@ -14,6 +14,7 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
   - [Uniform Type Identifiers Reference](https://developer.apple.com/library/archive/documentation/Miscellaneous/Reference/UTIRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009257)
   - [Bundle Programming Guide](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/Introduction/Introduction.html#//apple_ref/doc/uid/10000123i-CH1-SW1)
+  - [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/)
 
 ## WWDC Videos
 
