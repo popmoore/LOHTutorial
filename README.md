@@ -16,6 +16,9 @@ iOS app development - [Wiki](https://github.com/LockedOutofHeaven/LOHTutorial/wi
   - [Bundle Programming Guide](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/Introduction/Introduction.html#//apple_ref/doc/uid/10000123i-CH1-SW1)
   - [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/)
 
+* SwiftUI
+  - [Swiftui Tutorials](https://developer.apple.com/tutorials/swiftui)
+  - [iOS App Dev Tutorials / SwiftUI version](https://developer.apple.com/tutorials/app-dev-training)
 ## WWDC Videos
 
 * [WWDC 2020](https://developer.apple.com/videos/wwdc2020)
